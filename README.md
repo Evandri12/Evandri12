@@ -1,10 +1,11 @@
-Git clone https://github.com/Evandri12
+Hai om saya akan mengasih kode perintah atau
+Langsung aja simak caranya di bawah ini ya
+Ouh ya kan kalian sudah yang install bahan 
+PKG update itu langsung aja yaa
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+$Git clone://https/github.com/Evandri12
+$cd Evandri12
+$python evandri.py
 
-<!---
-Evandri12/Evandri12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Terimakasih semoga bermanfaat
